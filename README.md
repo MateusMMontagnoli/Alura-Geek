@@ -7,7 +7,7 @@ O projeto é divido em 4 semanas, as quais iniciam respectivamente nos dias:
 21/03 - 2º
 28/03 - 3º e 4º
 
-Para acessar a page acesse o link 
+Para acessar a page acesse o link 👉 https://mateusmmontagnoli.github.io/Alura-Geek/
 
 ## Status do projeto
 
