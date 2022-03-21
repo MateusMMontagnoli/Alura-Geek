@@ -1,0 +1,59 @@
+
+/* Gerais */
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+.botao{
+    width: fit-content;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: var(--azul);
+    border: 1px solid;
+    border-color: var(--azul);
+    height: 40px;
+    padding: 0.75rem 1rem;
+}
+
+.botao--login{
+    background-color: unset;
+    padding: 0.75rem 2.75rem;
+    color: var(--azul);
+    width: 133px;
+}
+
+.botao--banner{
+    width: 121px;
+}
+
+.botao--footer{
+    width: 153px;
+}
+
+.botao--azul{
+    color: white;
+}
+
+.secao-titulo{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+
+a{
+    color: var(--azul);
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration:underline;
+}
+
+button:hover{
+    cursor: pointer;
+}
