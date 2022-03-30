@@ -12,7 +12,7 @@ Para acessar a page acesse o link 👉 https://mateusmmontagnoli.github.io/Alura
 ## Status do projeto
 
 - [x] 1º Semana
-- [ ] 2º Semana
+- [x] 2º Semana
 - [ ] 3º Semana
 - [ ] 4º Semana
 
@@ -20,6 +20,8 @@ Para acessar a page acesse o link 👉 https://mateusmmontagnoli.github.io/Alura
 ### Features
 
 - [x] Pagina Inicial
-- [ ] Pagina de produto
-- [ ] Pagina de Login
-- [ ] Menu administrativo
+- [x] Pagina de produto
+- [x] Pagina de Login
+- [x] Pagina de Menu administrativo
+- [ ] Pagina de Adicionar Produto
+- [ ] Login
