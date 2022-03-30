@@ -3,6 +3,7 @@
 
 body{
     font-family: 'Raleway', sans-serif;
+    background-color: var(--cinza_05);
 }
 
 .botao{
@@ -37,7 +38,12 @@ body{
     color: white;
 }
 
-.secao-titulo{
+.botao--iniciar{
+    color: white;
+    min-width: 109px;
+}
+
+.secao-titulo{  
     font-size: 22px;
     font-weight: bold;
     margin-bottom: 16px;
